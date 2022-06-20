@@ -1,11 +1,4 @@
 provider "aws" {
-#  shared_config_files      = ["../terraform-conf/conf"]
-#  shared_credentials_files = ["../terraform-conf/sec"]
-#  profile                  = "iiva5897"
-
-#  access_key = "AKIAYPSHAXBIT72A7N7E"
-#  secret_key = "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"
-#  region     = "eu-central-1"
 }
 
 
